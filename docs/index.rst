@@ -1,2 +1,2 @@
 .. meta::
-   :http-equiv=Refresh: 0; url='https://new.domain/en/latest/'
+   :http-equiv=Refresh: 0; url='https://aws-data-wrangler.readthedocs.io/'
